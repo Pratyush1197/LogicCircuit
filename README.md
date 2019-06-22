@@ -1,5 +1,12 @@
 # LogicCircuit
 A Javascript based digital logic circuit simulator
+**Technologies Used**
+HTML
+CSS
+Javascript
+Jquery
+node.js
+Go.Js
 
 This is a digital logic circuit simulator which is made with GoJs library and Vanilla Javascript. I t has all the logic gates (AND, OR, NOT,NOR,NAND,XOR and XNOR) fully functional with input and output ports provided for inputing the data and collecting it respectively.
  Project also has a BCD to seven segment display decoder library predefined which can be simply loaded by clicking the load button.
@@ -38,6 +45,7 @@ Clicking on the clear button will reload the screen and clear all the circuits o
 
 **RUN THE PROJECT ON BROWSER**
 Given steps are to be followed to open the project
+
 git clone https://github.com/Pratyush1197/LogicCircuit.git
 
 cd LogicCircuit
