@@ -1,5 +1,6 @@
 # LogicCircuit
 A Javascript based digital logic circuit simulator
+
 **Technologies Used**
 HTML
 CSS
