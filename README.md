@@ -39,7 +39,9 @@ Clicking on the clear button will reload the screen and clear all the circuits o
 **RUN THE PROJECT ON BROWSER**
 Given steps are to be followed to open the project
 git clone https://github.com/Pratyush1197/LogicCircuit.git
+
 cd LogicCircuit
+
 Inside this folder you will find another folder logicCircuit. open it and open the logicCircuit.html on browser
 
 
